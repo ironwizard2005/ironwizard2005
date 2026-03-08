@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=28&amp;duration=3500&amp;color=FF00FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Cybersecurity;GNU%2FLinux;Radio+Hobbyist;Computer+Science+%40+Algoma+University;"/>
 </p>
+
 # 💫 About Me:
 Hello I'm Logan, a computer science student at Algoma university. <br>I have always been fascinated by computers and technology from a young age, so I always knew this is where I would end up. <br><br>I am passionate about Cybersecurity, Open Source software, and working with GNU/Linux systems. <br><br>Outside the field I enjoy radio technology, history, collecting and listening to music, and watching hockey.<br><br>I completed a Computer Programming diploma learning practical skills from industry experts. <br>I am now working toward a degree round out my skills with those more theoretical and to reach a higher recruitment audience.
 
