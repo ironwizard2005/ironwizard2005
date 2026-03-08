@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7a00ff,100:00ffff&height=220&section=header&text=Ironwizard Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&color=FF00FF&center=true&vCenter=true&width=650&lines=Cybersecurity;GNU%2FLinux;Radio+Hobbyist;Computer+Science+%40+Algoma+University;"/>
+</p>
 # 💫 About Me:
 Hello I'm Logan, a computer science student at Algoma university. <br>I have always been fascinated by computers and technology from a young age, so I always knew this is where I would end up. <br><br>I am passionate about Cybersecurity, Open Source software, and working with GNU/Linux systems. <br><br>Outside the field I enjoy radio technology, history, collecting and listening to music, and watching hockey.<br><br>I completed a Computer Programming diploma learning practical skills from industry experts. <br>I am now working toward a degree round out my skills with those more theoretical and to reach a higher recruitment audience.
 
@@ -10,3 +16,15 @@ Hello I'm Logan, a computer science student at Algoma university. <br>I have alw
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ironwizard2005&icon=0&color=11)](https://visitcount.itsvg.in)
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7a00ff,100:00ffff&height=120&section=footer"/>
+</p>
