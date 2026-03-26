@@ -13,10 +13,6 @@ Hello I'm Logan, a computer science student at Algoma university. <br>I have alw
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ironwizard2005&theme=synthwave&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ironwizard2005&icon=0&color=11)](https://visitcount.itsvg.in)
----
-
 # 🐍 Contribution Graph
 
 <p align="center">
